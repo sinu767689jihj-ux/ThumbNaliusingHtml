@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Gallery</title>
+</head>
+
+<body>
+    <h1>My Image Gallery</h1>
+
+    <div style="display:flex; flex-wrap:wrap;">
+
+        <!-- Thumbnail 1 -->
+        <a href="C:\Users\hihij\OneDrive\Pictures\dp.jpg" target="_blank">
+            <img src="C:\Users\hihij\OneDrive\Pictures\dp.jpg"
+                 alt="Image 1"
+                 height="100"
+                 width="100"
+                 style="margin:10px;">
+        </a>
+
+        <!-- Thumbnail 2 -->
+        <a href="C:/Users/hihij/OneDrive/Pictures/mySelf.jpg" target="_blank">
+            <img src="C:/Users/hihij/OneDrive/Pictures/mySelf.jpg"
+                 alt="Image 2"
+                 height="100"
+                 width="100"
+                 style="margin:10px;">
+        </a>
+
+        <!-- Thumbnail 3 -->
+        <a href="C:/Users/hihij/OneDrive/Pictures/RajaDaughter.png" target="_blank">
+            <img src="C:/Users/hihij/OneDrive/Pictures/RajaDaughter.png"
+                 alt="Image 3"
+                 height="100"
+                 width="100"
+                 style="margin:10px;">
+        </a>
+
+    </div>
+</body>
+</html>
